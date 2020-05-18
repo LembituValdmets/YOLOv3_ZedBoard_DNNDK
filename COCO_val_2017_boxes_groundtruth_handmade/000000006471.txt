@@ -1,0 +1,16 @@
+person 264 75 353 299
+person 95 190 225 324
+person 18 146 119 322
+person 28 98 68 147
+person 49 85 82 139
+person 93 76 149 138
+person 178 78 222 129
+person 223 74 263 128
+person 281 77 297 95
+person 413 61 457 111
+bench 77 116 257 137
+bench 338 89 498 121
+baseball_bat 285 27 363 112
+baseball_glove 215 233 242 262
+bottle 87 109 92 127
+bottle 146 103 152 120
